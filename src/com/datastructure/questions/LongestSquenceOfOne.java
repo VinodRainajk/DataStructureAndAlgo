@@ -1,5 +1,13 @@
 package com.datastructure.questions;
 
+/*
+	You are given a sting of 0 and 1, find the longest sequence of 1. 
+	You can replace only one 0 in between and that could be also considered as 1
+	e.g 1,1,1,0,1,0,1,1
+	here you have 1,1,1,0,1 = 4
+	              1,0,1,1 = 3
+		
+*/
 import java.util.ArrayList;
 import java.util.List;
 
