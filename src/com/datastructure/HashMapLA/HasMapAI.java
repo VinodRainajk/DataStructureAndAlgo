@@ -1,4 +1,9 @@
 package com.datastructure.HashMapLA;
+/*
+ * Here we are searching the common characters that appear in string
+ * 
+*/
+
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,5 +1,10 @@
 package com.datastructure.questions;
 
+/*This problem discuss of how we get get spiral value from a matrix
+ * 
+ * 
+ */
+
 public class SpiralMatrix {
 
 	

@@ -5,7 +5,7 @@ package com.datastructure.questions;
 	You can replace only one 0 in between and that could be also considered as 1
 	e.g 1,1,1,0,1,0,1,1
 	here you have 1,1,1,0,1 = 4
-	              1,0,1,1 = 3
+	              1,0,1,1 = 3.
 		
 */
 import java.util.ArrayList;
