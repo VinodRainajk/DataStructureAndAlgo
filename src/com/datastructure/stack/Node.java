@@ -1,8 +1,8 @@
-package com.datastructure.questions.linkedlist;
+package com.datastructure.stack;
 
 public class Node {
 	int value;
-	public Node next;
+	Node next;
 	
 	
 	public Node(int value, Node next) {
